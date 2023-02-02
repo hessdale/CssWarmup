@@ -1,0 +1,12 @@
+.red_text {
+    color: red;
+}
+#bold1 {
+    font-weight: 600;
+}
+#bold2 {
+    font-weight: bold;
+}
+#bold3 {
+    font-weight: bolder;
+}
